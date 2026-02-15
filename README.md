@@ -1,0 +1,54 @@
+# Redbone – Come and Get Your Love
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:44.12] Hey (hey), what's the matter with your head?
+[00:49.23] Yeah
+[00:50.47] Hey (hey), what's the matter with your mind, and your sign, and oh-oh-oh?
+[01:02.15] Hey (hey), nothing's a matter with your head, baby, find it
+[01:09.52] Come on and find it
+[01:11.32] Hell with it, baby, 'cause you're fine, and you're mine
+[01:17.58] And you look so divine
+[01:28.58] 
+[01:21.19] Come and get your love
+[01:25.00] Come and get your love
+[01:29.54] Come and get your love
+[01:33.67] Come and get your love
+[01:44.67] 
+[01:41.57] Hey (hey), what's the matter with you, feel right?
+[01:47.20] Don't you feel right, baby?
+[01:50.43] Hey (hey), alright, get it from the main line, alright
+[01:58.58] I said find it, find it, darling, love it if you like it, yeah
+[02:07.68] Hey (hey), it's your business if you want some, take some, get it together, baby
+[02:47.68] 
+[02:18.17] Come and get your love
+[02:23.13] Come and get your love
+[02:26.73] Come and get your love
+[02:31.24] Come and get your love
+[02:42.24] 
+[02:38.38] Come and get your love, come and get your love
+[02:39.86] Come and get your love now
+[02:42.29] Come and get your love, come and get your love
+[02:44.09] Come and get your love now
+[02:57.09] 
+[02:46.93] Come and get your love, come and get your love
+[02:49.37] Come and get your love now
+[02:51.70] Come and get your love, come and get your love
+[02:53.28] Come and get your love now
+[03:06.28] 
+[02:56.58] Come and get your love
+[03:00.62] Come and get your love
+[03:05.48] Come and get your love
+[03:09.50] Come and get your love
+[03:20.50] 
+[03:16.75] Hey (hey), what's the matter with you, feel right?
+[03:21.85] Don't you feel right, baby?
+[03:25.16] Hey (hey), alright, get it from the main vine, alright
+[03:52.16] 
+[03:41.27] La-la-la-la-la-la-la-la-la (come and get your love)
+[03:45.48] La-la-la-la-la-la-la-la-la (come and get your love)
+[03:46.64] (Come and get your love)
+[03:47.17] (Come and get your love)
+[03:48.07] La-la-la-la-la-la (come and get your love)
+```
