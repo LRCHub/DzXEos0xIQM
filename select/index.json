@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Come and Get Your Love",
+  "base_artist": "Redbone",
+  "createdAt": "2026-02-15T13:31:50.344118Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Come and Get Your Love",
+      "artist": "Redbone",
+      "has_synced": false,
+      "path": "select/01_Come_and_Get_Your_Love_Redbone.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Come And Get Your Love",
+      "artist": "Redbone",
+      "has_synced": true,
+      "path": "select/02_Come_And_Get_Your_Love_Redbone.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Come and Get Your Love",
+      "artist": "Redbone",
+      "has_synced": true,
+      "path": "select/03_Come_and_Get_Your_Love_Redbone.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Come and Get Your Love",
+      "artist": "Redbone",
+      "has_synced": true,
+      "path": "select/04_Come_and_Get_Your_Love_Redbone.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Come and Get Your Love",
+      "artist": "Redbone",
+      "has_synced": true,
+      "path": "select/05_Come_and_Get_Your_Love_Redbone.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Come and Get Your Love",
+      "artist": "Redbone",
+      "has_synced": true,
+      "path": "select/06_Come_and_Get_Your_Love_Redbone.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Come and Get Your Love",
+      "artist": "Redbone",
+      "has_synced": true,
+      "path": "select/07_Come_and_Get_Your_Love_Redbone.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Come and Get Your Love",
+      "artist": "Redbone",
+      "has_synced": true,
+      "path": "select/08_Come_and_Get_Your_Love_Redbone.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Come And Get Your Love",
+      "artist": "Redbone",
+      "has_synced": true,
+      "path": "select/09_Come_And_Get_Your_Love_Redbone.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Come And Get Your Love",
+      "artist": "Redbone",
+      "has_synced": true,
+      "path": "select/10_Come_And_Get_Your_Love_Redbone.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Come and Get Your Love",
+      "artist": "Temprees",
+      "has_synced": false,
+      "path": "select/11_Come_and_Get_Your_Love_Temprees.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Come And Get Your Love",
+      "artist": "Redbone",
+      "has_synced": true,
+      "path": "select/12_Come_And_Get_Your_Love_Redbone.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Come and Get Your Love",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/13_Come_and_Get_Your_Love_Various.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Come and Get Your Love",
+      "artist": "Redbone",
+      "has_synced": false,
+      "path": "select/pl_01_Come_and_Get_Your_Love_Redbone.txt"
+    }
+  ]
+}
